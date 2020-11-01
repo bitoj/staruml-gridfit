@@ -1,0 +1,16 @@
+{
+  "name": "bitoj.gridfit",
+  "title": "GridFit",
+  "description": "Extension for aligning diagram nodes to the grid",
+  "homepage": "https://github.com/bitoj/staruml-gridfit",
+  "version": "0.0.0",
+  "keywords": ["diagram", "grid"],
+  "author": {
+    "name": "Ronald Smits",
+    "url": "https://github.com/bitoj"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=3.0.0"
+  }
+}

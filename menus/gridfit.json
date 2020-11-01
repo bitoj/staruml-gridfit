@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "id": "format",
+      "submenu": [
+        {
+          "type": "separator"
+        },
+        {
+          "label": "Grid",
+          "id": "format.grid",
+          "submenu": [
+            {
+              "label": "Expand To Grid",
+              "id": "format.grid.expand",
+              "command": "gridfit:expand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
