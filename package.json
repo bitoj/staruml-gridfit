@@ -3,7 +3,7 @@
   "title": "GridFit",
   "description": "Extension for aligning diagram nodes to the grid",
   "homepage": "https://github.com/bitoj/staruml-gridfit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": ["diagram", "grid"],
   "author": {
     "name": "Ronald Smits",
